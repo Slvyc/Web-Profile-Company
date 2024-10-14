@@ -29,7 +29,7 @@
                    <a href="about.php">About</a>
                 </li>
                 <li class="menu-item">
-                   <a href="#services">Services</a>
+                   <a href="service.php">Services</a>
                 </li>
                 <li class="menu-item menu-item-has-children">
                    <a href="#" data-toggle="sub-menu">Pages <i class="plus"></i></a>
