@@ -26,7 +26,7 @@
                    <a href="service.php">Services</a>
                 </li>
                 <li class="menu-item">
-                   <a href="service.php">Properties</a>
+                   <a href="properties.php">Properties</a>
                 </li>
                 <!-- <li class="menu-item menu-item-has-children">
                    <a href="#" data-toggle="sub-menu">Pages <i class="plus"></i></a>
@@ -38,7 +38,7 @@
                    </ul>
                 </li> -->
                 <li class="menu-item">
-                   <a href="#contact">Contact</a>
+                   <a href="contact.php">Contact</a>
                 </li>
              </ul>
            </nav>
