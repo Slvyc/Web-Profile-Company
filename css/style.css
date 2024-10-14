@@ -201,17 +201,6 @@ a{
 	transition: all 0.3s ease;
 }
 
-/*home section*/
-.home-section{
-	width: 100%;
-	display: block;
-	min-height: 100vh;
-	background-image: url('../img/home.jpg');
-	background-position: center top;
-	background-size: cover;
-}
-
-
 /* responsive */
 
 @media(max-width: 991px){
@@ -286,3 +275,284 @@ a{
 	}
 }
 
+.hero-section {
+	background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('path/to/your/hero-image.jpg') no-repeat center center;
+	background-size: cover;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+  }
+  
+  .hero-section h1 {
+	font-size: 3.5rem;
+  }
+  
+  .hero-section .btn-primary {
+	background-color: #4db6ac;
+	border-color: #4db6ac;
+  }
+  
+  .hero-section .btn-primary:hover {
+	background-color: #3d9b92;
+	border-color: #3d9b92;
+  }
+  
+  .property-search-form {
+	margin-top: -50px;
+	position: relative;
+	z-index: 1;
+  }
+  
+  .property-search-form .btn-primary {
+	background-color: #4db6ac;
+	border-color: #4db6ac;
+  }
+  
+  .property-search-form .btn-primary:hover {
+	background-color: #3d9b92;
+	border-color: #3d9b92;
+  }
+/*about*/
+#about .lead {
+	font-size: 1.25rem;
+	color: #555;
+}
+  
+#about ul li {
+	margin-bottom: 0.5rem;
+}
+  
+#about .btn-primary {
+	background-color: #4db6ac;
+	border-color: #4db6ac;
+	padding: 0.75rem 1.5rem;
+	font-weight: 600;
+}
+  
+#about .btn-primary:hover {
+	background-color: #3d9b92;
+	border-color: #3d9b92;
+}
+
+/*service*/
+#services .card {
+	transition: transform 0.3s ease-in-out;
+}
+  
+#services .card:hover {
+	transform: translateY(-5px);
+}
+  
+#services .card-body i {
+	color: #4db6ac;
+}
+  
+#services .btn-primary {
+	background-color: #4db6ac;
+	border-color: #4db6ac;
+	padding: 0.75rem 1.5rem;
+	font-weight: 600;
+}
+  
+#services .btn-primary:hover {
+	background-color: #3d9b92;
+	border-color: #3d9b92;
+}
+
+/*news*/
+#news .card {
+	transition: transform 0.3s ease-in-out;
+}
+  
+#news .card:hover {
+	transform: translateY(-5px);
+}
+  
+#news .card-img-top {
+	height: 200px;
+	object-fit: cover;
+}
+  
+#news .btn-outline-primary {
+	color: #4db6ac;
+	border-color: #4db6ac;
+}
+  
+  #news .btn-outline-primary:hover {
+	background-color: #4db6ac;
+	color: white;
+}
+  
+#news .btn-primary {
+	background-color: #4db6ac;
+	border-color: #4db6ac;
+}
+  
+  #news .btn-primary:hover {
+	background-color: #3d9b92;
+	border-color: #3d9b92;
+}
+
+/*contact*/
+#contact .card {
+	border-radius: 15px;
+}
+  
+#contact .form-control {
+	border: none;
+	border-bottom: 1px solid #ddd;
+	border-radius: 0;
+	padding: 0.75rem 0;
+}
+  
+#contact .form-control:focus {
+	box-shadow: none;
+	border-color: #4db6ac;
+}
+  
+  #contact .btn-primary {
+	background-color: #4db6ac;
+	border-color: #4db6ac;
+	padding: 0.75rem 1.5rem;
+	font-weight: 600;
+	border-radius: 30px;
+}
+  
+#contact .btn-primary:hover {
+	background-color: #3d9b92;
+	border-color: #3d9b92;
+}
+  
+  #contact .fas {
+	width: 20px;
+}
+
+/*footer*/
+.footer-area {
+    background-color: #f8f9fa;
+    padding: 80px 0 0;
+    position: relative;
+}
+
+.footer-contact-form {
+    background-color: #ffffff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
+
+.footer-contact-form h5 {
+    color: #4db6ac;
+    font-weight: 600;
+}
+
+.footer-contact-form h2 {
+    color: #333;
+    font-weight: 700;
+}
+
+.footer-contact-form .form-control {
+    border: none;
+    border-bottom: 1px solid #ddd;
+    border-radius: 0;
+    padding: 10px 0;
+}
+
+.footer-contact-form .form-control:focus {
+    box-shadow: none;
+    border-color: #4db6ac;
+}
+
+.footer-contact-form .btn-primary {
+    background-color: #4db6ac;
+    border: none;
+    padding: 12px 30px;
+    border-radius: 30px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.footer-contact-form .btn-primary:hover {
+    background-color: #3d9b92;
+}
+
+.footer-bottom {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+
+.footer-nav {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: right;
+}
+
+.footer-nav li {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.footer-nav li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+@media (max-width: 768px) {
+    .footer-nav {
+        text-align: center;
+        margin-top: 15px;
+    }
+    
+    .footer-nav li {
+        margin: 0 10px;
+    }
+    
+    .copyright {
+        text-align: center;
+    }
+}
+
+/*footer*/
+.footer-area .form-control:focus {
+  box-shadow: none;
+  border-color: #007bff; /* Sesuaikan dengan warna primer Bootstrap Anda */
+}
+
+.footer-area .btn-primary {
+  background-color: #4db6ac; /* Warna teal seperti di gambar */
+  border: none;
+}
+
+.footer-area .btn-primary:hover {
+  background-color: #3d9b92;
+}
+
+.footer-bottom .nav-link:hover {
+  color: #4db6ac !important;
+}
+
+.footer-area h3 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.footer-area p {
+  color: #666;
+}
+
+.footer-area .form-control {
+  border: 1px solid #ddd;
+}
+
+.footer-area .btn-primary {
+  background-color: #4db6ac;
+  border: none;
+}
+
+.footer-area .btn-primary:hover {
+  background-color: #3d9b92;
+}
+
+/**/
