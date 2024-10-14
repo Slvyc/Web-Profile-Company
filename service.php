@@ -19,7 +19,7 @@
                 <div class="row h-100 align-items-center">
                     <div class="col-lg-6">
                         <h1 class="display-4 text-white fw-bold mb-4">Temukan Rumah Impian Anda Bersama Zanpro</h1>
-                        <p class="lead text-white mb-4">Kami menyediakan layanan real estate terbaik untuk membantu Anda menemukan properti yang sempurna sesuai kebutuhan dan anggaran Anda.</p>
+                        <p class="lead text-white mb-4">Looking to Buy, Sell, Rent, Invest or Manage?</p>
                         <div class="d-flex gap-3">
                             <a href="#" class="btn btn-primary btn-lg">Cari Properti</a>
                             <a href="#" class="btn btn-outline-light btn-lg">Hubungi Kami</a>

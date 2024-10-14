@@ -40,7 +40,7 @@
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-10">
-        <form class="property-search-form bg-white p-4 rounded shadow">
+        <form class="property-search-form bg-white p-4 rounded shadow mt-0">
           <div class="row g-3">
             <div class="col-md-3">
               <select class="form-select" aria-label="Tipe Properti">

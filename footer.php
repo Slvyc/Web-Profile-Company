@@ -1,29 +1,5 @@
 <footer class="footer-area bg-light py-5">
   <div class="container">
-    <div class="row justify-content-center mb-5">
-      <div class="col-lg-6 col-md-8">
-        <div class="card shadow">
-          <div class="card-body p-5">
-            <h5 class="text-center text-uppercase mb-4 text-primary">CONTACT US</h5>
-            <h2 class="text-center mb-5">Schedule an Appointment</h2>
-            <form>
-              <div class="mb-4">
-                <input type="text" class="form-control form-control-lg border-0 border-bottom rounded-0" placeholder="Name" required>
-              </div>
-              <div class="mb-4">
-                <input type="email" class="form-control form-control-lg border-0 border-bottom rounded-0" placeholder="Email" required>
-              </div>
-              <div class="mb-4">
-                <textarea class="form-control form-control-lg border-0 border-bottom rounded-0" rows="4" placeholder="Message" required></textarea>
-              </div>
-              <div class="text-center">
-                <button type="submit" class="btn btn-primary btn-lg px-5 py-3 text-uppercase">Request a call back</button>
-              </div>
-            </form>
-          </div>
-        </div>
-      </div>
-    </div>
     
     <div class="row">
       <div class="col-md-4 mb-4 mb-md-0">
