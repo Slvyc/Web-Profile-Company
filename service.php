@@ -78,3 +78,14 @@
         </div>
         <img src="/Web-Profile-Company/img/img2.jpg" alt="Sejarah Kami" class="service-page-image">
     </div>
+    </div>
+
+    <?php include 'footer.php'; ?>
+    
+    <!-- Bootstrap Bundle dengan Popper -->
+     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+     
+     <!-- Script kustom Anda -->
+      <script src="js/script.js"></script>
+    </body>
+    </html>
