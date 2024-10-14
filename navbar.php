@@ -3,7 +3,7 @@
      <div class="container">
         <div class="header-main">
            <div class="logo">
-                 <img src="/Web-Profile-Company/img/zanpro logo.jpg" alt="logo" class="img-fluid">
+                 <img src="img/zanpro logo.jpg" alt="logo" class="img-fluid">
            </div>
            <div class="open-nav-menu">
               <span></span>
