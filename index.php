@@ -68,11 +68,6 @@
 
  <!-- home section start -->
  <section class="home-section">
-   <div class="container">
-      <div class="home-content">
-         <h1>Welcome to our website</h1>
-      </div>
-   </div>
  </section>
  <!-- home section end -->
  
