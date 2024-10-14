@@ -23,11 +23,7 @@
                    <a href="about.php">About</a>
                 </li>
                 <li class="menu-item">
-<<<<<<< HEAD
-                   <a href="services.php">Services</a>
-=======
                    <a href="service.php">Services</a>
->>>>>>> 5bffcaa9dc6e816b3559c7dd31d585ce6937d740
                 </li>
                 <li class="menu-item menu-item-has-children">
                    <a href="#" data-toggle="sub-menu">Pages <i class="plus"></i></a>
